@@ -1,7 +1,6 @@
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_v1_5 as PKCS1_cipher
 import base64
-import os
 
 def login(username,password):
     with open('ghost-public.pem')) as f:
