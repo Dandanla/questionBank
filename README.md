@@ -15,6 +15,8 @@
 ### 使用方式
 #### 加入QQ群交流(834938580) 
 
+![操作说明](https://github.com/Dandanla/Yuketang-QQRobot/blob/main/Picture.png)
+
 对机器人发送"查题 雨课堂 [题目内容]"即可。
 
 
