@@ -1,4 +1,4 @@
-# Yuketang-QQRobot
+# Chaoxing-Mooc-Xty
 
 超星/Mooc/学堂云4.0查题接口 更新时间: 2021/8/1
 
