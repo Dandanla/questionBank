@@ -19,4 +19,4 @@ def login(username,password):
     res = requests.request("POST", url, headers = headers, data = payload)
 
 if __name__ == '__main__':
-    login(username,password)
+    login()
